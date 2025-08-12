@@ -5,6 +5,7 @@
 
 This project demonstrates how to seamlessly integrate LangChain (a framework for building applications with large language models) with SQL databases.
 
+
 **Key highlights:**
 
 Enables natural language querying of structured data.
@@ -12,6 +13,7 @@ Enables natural language querying of structured data.
 Converts user prompts into SQL queries.
 
 Executes the queries and returns clear, meaningful results.
+
 
 **Ideal for:**
 
@@ -22,6 +24,7 @@ Data explorers
 Intelligent assistants that interact with real databases.
 
 No SQL knowledge required. 🎉
+
 
 **✨ Features**
 
@@ -35,6 +38,7 @@ No SQL knowledge required. 🎉
 
 🛠 Easily extendable and customizable for unique use cases.
 
+
 **🛠 Technologies Used**
 
 🐍 Python
@@ -47,11 +51,13 @@ No SQL knowledge required. 🎉
 
 🔐 Environment variables for secure configuration
 
+
 **OVERVIEW**
 
 <img width="993" height="602" alt="image" src="https://github.com/user-attachments/assets/31d38349-e34a-4ebb-8e91-208d4fd09368" />
 
 
+<br><br>
 
 **WORKING**
 
