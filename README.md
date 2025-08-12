@@ -27,5 +27,13 @@ Perfect for building AI-powered chatbots, data explorers, or intelligent assista
 
 <img width="993" height="602" alt="image" src="https://github.com/user-attachments/assets/31d38349-e34a-4ebb-8e91-208d4fd09368" />
 
+
+
+
+
+
+
+
+
 <img width="915" height="819" alt="image" src="https://github.com/user-attachments/assets/1b08e595-2f42-4adb-94f4-6ce1c5f13f1e" />
 
